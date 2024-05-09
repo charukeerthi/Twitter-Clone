@@ -1,0 +1,31 @@
+# twitter
+
+python -m venv myenv
+C:\Users\Admin\AppData\Local\Programs\Python\Python37-32\python -m venv myenv
+
+myenv\Scripts\activate
+
+deactivate
+
+pip install -r requirements.txt
+
+if you are not able to install the requirements then remove the package which is causing the issue and then install that package individually after upgrading the pip
+Also try without installing the package
+
+python manage.py makemigrations
+
+python manage.py migrate
+
+python manage.py runserver
+
+ctlr + c (To exit)
+
+# Twitter:
+
+charu
+charu_test@mail.com
+Hello@123
+
+akash
+akash_test@mail.com
+Hello@123
