@@ -29,9 +29,9 @@ Twitter Clone is a Django project designed to replicate the basic functionality 
 
 2. Move to the base directory: `cd Twitter-Clone`
 
-3. Create a new python environment with: `python -m venv env`
+3. Create a new python environment with: `python -m venv myenv`
 
-4. Activate environment with: `env\Scripts\activate` on windows, or `source env/bin/activate` on Mac and Linux
+4. Activate environment with: `myenv\Scripts\activate` on windows, or `source myenv/bin/activate` on Mac and Linux
 
 5. Install required dependences with: `pip install -r requirements.txt`
 
